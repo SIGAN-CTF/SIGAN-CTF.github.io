@@ -5,7 +5,12 @@
 
 - type: telegram
   icon: "fab fa-telegram"
+  url:  'https://t.me/sigan_media'
 
+- type: ctftime
+  icon: 'fa-duotone fa-solid fa-flag'
+  url: 'https://ctftime.org/team/186784'     
+  
 # - type: email
 #   icon: "fas fa-envelope"
 #   noblank: true # open link in current tab
